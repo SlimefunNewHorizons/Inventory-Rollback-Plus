@@ -157,4 +157,5 @@ This project is a sovereign fork maintained by [**JackStar6677-1**](https://gith
 
 - **Original Project:** Created by the upstream authors and the open-source community.
 - **DrakesCraft Optimizations:** Modernized for Paper/Purpur 1.21.11+, Java 21, high concurrency, asynchronous safety, and exploit/duplication prevention.
+- **Season 2 (`port-26x` branch):** built with Java 25 against Paper 26.2 and booted on the Paper 26.2-133 staging server (2026-10-11): the plugin enables, its self-tests pass (5/5) and the console commands `help`, `version`, `forcebackup all`, `reload` and `restore <player> list` work. No in-game restore with a real player has been tested on 26.2 yet, and production (Dallas) still runs the 1.21.11 build from `main`.
 - **License:** Distributed under the original **GNU General Public License v3.0 (GPLv3)** (or original upstream license). See the [LICENSE](LICENSE) file for complete terms.
