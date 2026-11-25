@@ -4,6 +4,8 @@
 > **Créditos y licencia.** Port y mantenimiento por [JackStar6677-1](https://github.com/JackStar6677-1) y [DrakesCraft Labs](https://github.com/SlimefunNewHorizons). Autores originales: [TechnicallyCoded](https://github.com/TechnicallyCoded) (upstream [TechnicallyCoded/Inventory-Rollback-Plus](https://github.com/TechnicallyCoded/Inventory-Rollback-Plus)), [TechnicallyCoded](https://github.com/TechnicallyCoded), [danjono](https://github.com/danjono), [Aurelien30000](https://github.com/Aurelien30000), [dblitt](https://github.com/dblitt), [vLuckyyy](https://github.com/vLuckyyy), [ItsDApples](https://github.com/ItsDApples), [EpicPlayerA10](https://github.com/EpicPlayerA10), [Nononitas](https://github.com/Nononitas), [khjxiaogu](https://github.com/khjxiaogu), [radiant-ai](https://github.com/radiant-ai), [yL3oft](https://github.com/yL3oft), ${project.organization.name} (plugin.yml). Licencia original: **license text of the upstream (see LICENSE)**. Detalle en [docs/UPSTREAM_ATTRIBUTION.md](docs/UPSTREAM_ATTRIBUTION.md).
 <!-- credits:end -->
 
+> **Branches / Ramas.** `main`: Paper/Purpur 1.21.11 (Java 21). `port-26x`: Paper/Purpur 26.x (production: Purpur 26.2, Java 25). If another section of this README says otherwise, this note prevails. / Si otra seccion de este README dice otra cosa, prevalece esta nota.
+
 <p align="center">
   <img src="assets/inventoryrollbackplus-drake-banner.png" alt="InventoryRollbackPlus Drake banner" width="100%">
 </p>
